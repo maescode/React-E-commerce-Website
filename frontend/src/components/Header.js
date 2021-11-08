@@ -12,11 +12,12 @@ const Header = () => {
             <Navbar.Collapse id='basic-navbar-nav'>
               <Nav className='ms-auto'>
                 <Nav.Link href='/cart'>
-                  <i class='fa fa-shopping-cart' aria-hidden='true'></i> Cart
+                  <i className='fa fa-shopping-cart' aria-hidden='true'></i>{" "}
+                  Cart
                 </Nav.Link>
                 <Nav.Link href='/login'>
-                  {" "}
-                  <i class='fa fa-user-circle' aria-hidden='true'></i> Sign In
+                  <i className='fa fa-user-circle' aria-hidden='true'></i> Sign
+                  In
                 </Nav.Link>
                 <NavDropdown title='Profile' id='basic-nav-dropdown'>
                   <NavDropdown.Item href='#action/3.1'>Action</NavDropdown.Item>
