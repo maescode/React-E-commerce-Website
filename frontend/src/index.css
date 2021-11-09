@@ -1,3 +1,14 @@
 main {
   min-height: 80vh;
 }
+.product-link {
+  text-decoration: none;
+}
+
+h3 {
+  padding: 1rem 0rem;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
