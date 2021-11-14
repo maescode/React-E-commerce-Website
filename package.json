@@ -1,5 +1,22 @@
 {
+  "name": "mern_shopping_cart_app",
+  "version": "1.0.0",
+  "description": "Full stack E-commerce website using React, Redux, MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maescode/React-E-commerce-Website.git"
+  },
+  "author": "Abel Olayinka (maescode)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maescode/React-E-commerce-Website/issues"
+  },
+  "homepage": "https://github.com/maescode/React-E-commerce-Website#readme",
   "dependencies": {
-    "react-router-dom": "^6.0.2"
+    "express": "^4.17.1"
   }
 }
