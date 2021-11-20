@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/maescode/React-E-commerce-Website#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "concurrently": "^6.4.0",
     "dotenv": "^10.0.0",
